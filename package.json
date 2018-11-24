@@ -1,0 +1,30 @@
+{
+  "name": "strip-mentions",
+  "version": "1.0.0",
+  "description": "Strip @mentions from a string using a default or custom handle style ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/strip-mentions.git"
+  },
+  "keywords": [
+    "strip",
+    "mentions",
+    "delete",
+    "remove",
+    "clean",
+    "string",
+    "message",
+    "msg",
+    "input"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/strip-mentions/issues"
+  },
+  "homepage": "https://github.com/Truemedia/strip-mentions#readme"
+}
