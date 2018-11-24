@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/Truemedia/strip-mentions/issues"
   },
-  "homepage": "https://github.com/Truemedia/strip-mentions#readme"
+  "homepage": "https://github.com/Truemedia/strip-mentions#readme",
+  "dependencies": {
+    "replace-string-at-position": "^1.0.4"
+  }
 }
